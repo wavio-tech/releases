@@ -7,4 +7,4 @@ Official downloads for the [Wavio](https://www.wavio.tech) desktop app, which se
 - macOS 13.5 or later (Apple Silicon)
 - Windows: coming soon ([join the waitlist](https://www.wavio.tech/download))
 
-This repository only hosts release files. For help, join our [Discord](https://discord.gg/4uV73GpgE) or email support@wavio.tech.
+This repository only hosts release files. For help, join our [Discord](https://discord.gg/WSA3k63fTf) or email support@wavio.tech.
